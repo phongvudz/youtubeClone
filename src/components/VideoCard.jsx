@@ -17,7 +17,6 @@ const VideoCard = ({
     snippet,
   },
 }) => {
-  console.log("snippet", snippet);
   return (
     <Card
       sx={{
